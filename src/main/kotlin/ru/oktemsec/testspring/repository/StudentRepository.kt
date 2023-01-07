@@ -1,4 +1,5 @@
 package ru.oktemsec.testspring.repository
 
-class StudentRepository {
-}
+import ru.oktemsec.testspring.entity.StudentEntity
+
+interface StudentRepository
